@@ -1,0 +1,8 @@
+h1{
+color:black;
+}
+.header{
+background-color: cornsilk;
+display:flex;
+justify-content:space-between;
+}
